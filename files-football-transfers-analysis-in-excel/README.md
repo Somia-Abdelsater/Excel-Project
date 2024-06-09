@@ -19,7 +19,7 @@ This project spans two seasons (2021/2022 and 2022/2023) and involves several ke
   - Apply filters and modify entries in the Season column in the Database sheet.
   - Fill in the Continent columns using Excel’s VLOOKUP or XLOOKUP function.
 
-[Download Football data_Task 1.xlsx](link_to_file)
+[Download Football data_Task 1.xlsx](https://github.com/Somia-Abdelsater/Excel-Project/blob/main/files-football-transfers-analysis-in-excel/Football%20data_Task%201.xlsx)
 
 ### Part 2: Analyze the Aggregate Number of European Transfers
 
@@ -28,7 +28,7 @@ This project spans two seasons (2021/2022 and 2022/2023) and involves several ke
   - Use Excel’s SUMIFS function to populate a table with transfer data based on multiple criteria.
   - Adjust the database column for outgoing transfers and convert them to negative numbers for net movement calculation.
 
-[Download Football data_Task 2.xlsx](link_to_file)
+[Download Football data_Task 2.xlsx](https://github.com/Somia-Abdelsater/Excel-Project/blob/main/files-football-transfers-analysis-in-excel/Football%20data_Task%202.xlsx)
 
 ### Part 3: Analyze European Transfers by Country
 
@@ -38,7 +38,7 @@ This project spans two seasons (2021/2022 and 2022/2023) and involves several ke
   - Create a new sheet and set up a table to fill in transfer data using SUMIFS function.
   - Adjust parameters in SUMIFS function for outgoing transfers and monetary value calculation.
 
-[Download Football data_Task 3.xlsx](link_to_file)
+[Download Football data_Task 3.xlsx](https://github.com/Somia-Abdelsater/Excel-Project/blob/main/files-football-transfers-analysis-in-excel/Football%20data_Task%203.xlsx)
 
 ### Part 4: Visualize Transfer Fees of Top 5 European Countries
 
@@ -48,7 +48,7 @@ This project spans two seasons (2021/2022 and 2022/2023) and involves several ke
   - Create a new sheet and set up a table for visualization.
   - Fill in data using Excel formulas and create a chart to visualize transfer fees.
 
-[Download Football data_Task 4.xlsx](link_to_file)
+[Download Football data_Task 4.xlsx](https://github.com/Somia-Abdelsater/Excel-Project/blob/main/files-football-transfers-analysis-in-excel/Football%20data_Task%204.xlsx)
 
 ## Conclusion
 
